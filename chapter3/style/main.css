@@ -1,0 +1,31 @@
+
+p{
+    color: black;
+    font-size: 40px;
+}
+
+#big_p{
+    color: black;
+    font-size: 40px;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    top: 20px;
+    bottom: 70px;
+}
+
+th{
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 40px;
+}
+
+
+*{
+    font-size: 50px;
+    color: green;
+
+}
